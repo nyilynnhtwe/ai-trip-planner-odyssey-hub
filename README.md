@@ -39,7 +39,7 @@ This app uses conversational AI and a smart, human-centered design to:
 ## 🖼️ Figma Prototype
 
 Explore the high-fidelity interactive design:
-👉 [Figma Prototype Link](https://www.figma.com/design/6pMi0Po8AWLw6WmWCalVfP/Odyssey-Hub?node-id=6-27&t=Gy7odGeKHpGHYbtt-1) *(Insert your actual Figma link here)*
+👉 [Figma Prototype Link](https://www.figma.com/design/6pMi0Po8AWLw6WmWCalVfP/Odyssey-Hub?node-id=6-27&t=Gy7odGeKHpGHYbtt-1) 
 
 ## 📁 Repository Structure
 
